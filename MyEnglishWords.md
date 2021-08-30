@@ -8,6 +8,7 @@ be bound up with ...        ...と密接に関係がある
 be cut out for ...          ...(職種)に向いている
 be cut out to be ...        ...になるのに向いている
 be egaer to do ...          しきりに...したがっている
+be envious of ...           ...をうらやましく思う(be jealous of ...)\n
 be fed up (with ...)        (...に)うんざりしている
 be getting at ...           ...を言おうとしている
 be hard up                  (一時的に)お金に困っている
@@ -54,6 +55,9 @@ come up with ...    ...(うまい考え)を考え出す
 do away with ...    ...(制度など)を捨てる[廃止する](get rid of.../abolish...)
 do with ...         ...をどうにかする[扱う]
 
+# fall系
+fall down           崩壊する,崩れる(collapse)
+
 # give系
 give ... away               ...をただであげる,...を寄付する
 give it a try               (あれこれ考えずに)やってみる(do it/try it)
@@ -66,6 +70,7 @@ give rise to ...            ...(よくないこと)を引き起こす
 # get系
 get by (on ...)             (...(金額)で)何とか生活していく
 get (...) nowhere           (行為などが)(...に)何の進歩[成果]ももたらさない
+get (...) somewhere         (...に)何らかの成果をもたらす
 get on one's nerves         ...をいらいらさせる
 get[be] stuck               ①(物が)動かなくなる[動かない]
 
