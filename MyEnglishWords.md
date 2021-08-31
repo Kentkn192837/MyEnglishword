@@ -7,8 +7,11 @@ be bound to do ...          ①きっと...する(be sure[certain] to do...)②.
 be bound up with ...        ...と密接に関係がある
 be cut out for ...          ...(職種)に向いている
 be cut out to be ...        ...になるのに向いている
+be conscious of ...         ...を自覚している
+be convinced of ...         ...を確信している
+be confident of ...         ...を確信している
 be egaer to do ...          しきりに...したがっている
-be envious of ...           ...をうらやましく思う(be jealous of ...)\n
+be envious of ...           ...をうらやましく思う(be jealous of ...)<br>
 be fed up (with ...)        (...に)うんざりしている
 be getting at ...           ...を言おうとしている
 be hard up                  (一時的に)お金に困っている
@@ -24,6 +27,7 @@ be obliged to do ...        ...せざるを得ない,...を余儀なくされる
 be responsible for ...      ...を担当する
 be sick (and tired) of ...  ...には(ほとほと)うんざりだ
 be second to none           誰にも劣らない
+be sure of ...              ...を確信している
 be suitable for[to]...      ...にふさわしい
 
 # break系
@@ -297,6 +301,7 @@ Keep the change     おつりはいりません
 There you go again!  またそれだ,また始まったよ
 How's it going?     最近どう？,調子はどうだい？
 How many in your party? 何名様ですか？
+How do I get to ...?    ...へはどう行ったらいいですか
 Couldn't be better. 最高だよ
 Couldn't be worse.  最悪だよ
 Could you move over a little?       少し詰めていただけませんか？
@@ -329,3 +334,6 @@ third-story buliding    ...階建て(の建物)
 be in charge (of ...)   (...の)担当責任者である (be responsible (for ...))
 on a charge of ...      ...の容疑で
 take charge of ...      ...の担当責任者を務める
+
+# 文法事項
+of + 抽象名詞 = 形容詞
