@@ -50,6 +50,7 @@ call ... back    折り返し...に電話する
 call ... in      ...(専門家など)を呼ぶ
 
 # come系
+come into effect    効果を表す
 come true   （夢・計画など）が実現する
 come in[into] contact with ...  ...に触れる
 come over           そこに行く[相手の居る場所に向かう]
